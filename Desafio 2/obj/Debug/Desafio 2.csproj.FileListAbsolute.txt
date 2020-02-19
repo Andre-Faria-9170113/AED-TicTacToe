@@ -1,0 +1,7 @@
+C:\Users\André\Desktop\André\Uni\AED\2018-2019\Desafio 2\Desafio 2\obj\Debug\Desafio 2.csprojResolveAssemblyReference.cache
+C:\Users\André\Desktop\André\Uni\AED\2018-2019\Desafio 2\Desafio 2\obj\Debug\Desafio 2.csproj.CoreCompileInputs.cache
+C:\Users\André\Desktop\André\Uni\AED\2018-2019\Desafio 2\Desafio 2\bin\Debug\Desafio 2.exe.config
+C:\Users\André\Desktop\André\Uni\AED\2018-2019\Desafio 2\Desafio 2\bin\Debug\Desafio 2.exe
+C:\Users\André\Desktop\André\Uni\AED\2018-2019\Desafio 2\Desafio 2\bin\Debug\Desafio 2.pdb
+C:\Users\André\Desktop\André\Uni\AED\2018-2019\Desafio 2\Desafio 2\obj\Debug\Desafio 2.exe
+C:\Users\André\Desktop\André\Uni\AED\2018-2019\Desafio 2\Desafio 2\obj\Debug\Desafio 2.pdb
