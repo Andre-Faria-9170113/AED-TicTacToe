@@ -13,7 +13,7 @@ Visual Studio 2017 or similar.
 
 -Select your desired gamemode from the menu by inputting the respective numerical key;
 
--Input your player name (or both player's in cave of a player vs. player match);
+-Input your player name (or both player's in case of a player vs. player match);
 
 -Choose which square to fill in for your turn, by inputting the respective numerical key until there is a winner (in PvP players will take turns choosing squares);
 
